@@ -1,0 +1,7 @@
+node_modules
+
+# 数据库完成前不提交
+src/config/db.js
+
+# 环境变量的配置
+.env
