@@ -5,3 +5,9 @@ src/config/db.js
 
 # 环境变量的配置
 .env
+
+# 文件上传路径
+public
+
+# 测试页面
+test

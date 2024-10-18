@@ -6,6 +6,7 @@ const {
   PASSWORD_ERROR,
   UNAUTHENTICATION,
   SQL_EXECUTION_FAILED,
+  NO_PERMISSION,
 } = require("../config/error");
 
 app.on("error", (error, ctx) => {
